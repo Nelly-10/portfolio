@@ -1,4 +1,4 @@
-[cv.pdf](https://github.com/user-attachments/files/26436217/cv.pdf)🚀 Portfolio Website
+[cv.pdf](https://github.com/user-attachments/files/26436287/cv.pdf)[cv.pdf](https://github.com/user-attachments/files/26436217/cv.pdf)🚀 Portfolio Website
 
 A modern, responsive portfolio website showcasing my projects, skills, and experience as a frontend developer.
 
@@ -47,7 +47,11 @@ http://localhost:3000
 
 
 📄 Resume
-[Uploading cv%PDF-1.4
+
+You can download my resume directly from the website or here:
+👉 Download Resume
+
+[Uploading %PDF-1.4
 %���� ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
@@ -146,10 +150,7 @@ trailer
 startxref
 3340
 %%EOF
-.pdf…]()
-
-You can download my resume directly from the website or here:
-👉 Download Resume
+cv.pdf…]()
 
 📬 Contact
 Email: odumahnelson@gmail.com
