@@ -1,6 +1,6 @@
 [cv.pdf](https://github.com/user-attachments/files/26436287/cv.pdf)[cv.pdf](https://github.com/user-attachments/files/26436217/cv.pdf)🚀 Portfolio Website
 
-A modern, responsive portfolio website showcasing my projects, skills, and experience as a frontend developer.
+A modern, responsive portfolio website showcasing my projects, skills, and experience as a full-stack developer.
 
 🌐 Live Demo
 
