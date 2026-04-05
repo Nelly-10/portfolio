@@ -20,7 +20,7 @@ export default function ProjectSection() {
                         title="Horizon Banking Website"
                         imagePath="/images/p2.png"
                         description="Experience modern banking designed around you. Manage your accounts, transfer funds, pay bills, and track your financial goals—all securely and conveniently from one platform. Your money, simplified and protected."
-                        link="https://chat-app-o4ip.onrender.com/"
+                        link="https://bankapp-sooty-psi.vercel.app/"
                     />
                 </div>
 
