@@ -27,9 +27,9 @@ export default function ProjectSection() {
                 <div data-aos="fade-right">
                     <ProjectCard
                         imagePath="/images/p3.webp"
-                        title="Modern Landing Page"
-                        description="High-conversion marketing page with animated components optimized performance, and SEO best practices. Built with Next.js and Framer Motion."
-                        link="https://chat-app-o4ip.onrender.com/"
+                        title="Admin Dashboard"
+                        description="A centralized admin dashboard designed to give you full control over your platform. Monitor user activity, manage transactions, track system performance, and access key insights—all from one intuitive interface."
+                        link="https://admin-dasvyh.netlify.app/"
                     />
                 </div>
 
