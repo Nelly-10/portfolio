@@ -26,7 +26,7 @@ export default function ProjectSection() {
 
                 <div data-aos="fade-right">
                     <ProjectCard
-                        imagePath="/images/p3.webp"
+                        imagePath="/images/image4.png"
                         title="Admin Dashboard"
                         description="A centralized admin dashboard designed to give you full control over your platform. Monitor user activity, manage transactions, track system performance, and access key insights—all from one intuitive interface."
                         link="https://admin-dasvyh.netlify.app/"
